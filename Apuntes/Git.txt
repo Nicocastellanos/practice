@@ -28,4 +28,4 @@ git add nameFile
 git reset 
     --hard hascommit || HEAD~
     --soft
-    
+git marge: combinar los trabajos o 
