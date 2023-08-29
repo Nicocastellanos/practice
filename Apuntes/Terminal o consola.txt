@@ -1,0 +1,16 @@
+la terminal es una manera en la que nosotros como usuarios 
+podemos comunicarnos con la maquina, mediante comandos. 
+
+ *interfaz de usuario: nosotros como usuarios hablamos con la maquina
+ mediante una interfaz de comandos.
+
+*interprete de comandos: es el encargado de gestionar los comandos que 
+ingresa el usuario para luego comunicarselo a la maquina.
+
+*comando: instruncciones que escribimos en el emulador del sistema para 
+comunicarnos con el. mientras que opciones o parametros, son los detalles
+que se suelen escribir a continuacion para cambiar la forma en la que 
+trabaja el comando o alterar su funcionamiento.
+
+*script: se escriben una coleccion de comandos y parametros.
+para que asi se automatice una tarea repetitiva. 

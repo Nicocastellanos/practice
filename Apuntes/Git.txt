@@ -1,0 +1,29 @@
+
+
+sistema de control local (SCV)
+solo yo puedo trabajar een el proycto con mi pc y si alguien necesita el proyecto
+se le pasa por memoria o algo asi. para luego unificar las partes 
+
+SCV centralizado 
+puedo empezar a trabajar con otros, desde un solo servidor. pero 
+si ese servidor se daña se pierde todo el proyecto, o no podre trabajar en el 
+
+SCV distribuido
+trabajo en equipo y cada equipo que este trabajndo en el proyecto 
+podra tener todo el proyecto en su pc, por si se llega a dañar el servido
+o algun pc, se pueda serguir trabajando sin complicaciones. 
+
+GIT
+CONTROL DE VERSIONES ¡¡¡DISTRIBUIDOS!!!!
+-SCV
+-asegura datos y sus versiones 
+donde guardamos todo el proyecto, como la carpeta donde seguarda todo
+se llama (repositorio)
+COMANDOS
+
+con (git init) convertimos el proyecto de una carpeta a un repositorio
+git add:llevar un archivo a staging
+git add -all: llevar todos los archivos a staging
+git add nameFile
+git reset 
+    --hard hascommit || HEAD~
