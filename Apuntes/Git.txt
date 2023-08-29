@@ -27,3 +27,5 @@ git add -all: llevar todos los archivos a staging
 git add nameFile
 git reset 
     --hard hascommit || HEAD~
+    --soft
+    
